@@ -24,29 +24,30 @@ Mode        : Building & Learning
 - 🎯 Building Useful Projects
 
 ---
-
 ⚙️ Tech Stack
 
 Languages
 
-"HTML" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 "PHP" (https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-"Python" (https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 Tools
 
-"Git" (https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-"Telegram" (https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-"Linux" (https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-"VS Code" (https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+"Telegram" (https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 📊 GitHub Statistics
 
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=memevaiya2O&show_icons=true&theme=tokyonight&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=memevaiya2O&layout=compact&theme=tokyonight&hide_border=true"/></p>---
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=memevaiya2O&show_icons=true&theme=tokyonight&hide_border=true"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=memevaiya2O&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 🔥 GitHub Streak
 
